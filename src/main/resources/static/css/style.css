@@ -1,3 +1,7 @@
 .helloworld{
     color:red;
 }
+
+li{
+    display:inline;
+}
